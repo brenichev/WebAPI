@@ -1,0 +1,17 @@
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\bin\Debug\NotebookClient.exe.config
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\obj\Debug\NotebookClient.csprojResolveAssemblyReference.cache
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\obj\Debug\NotebookClient.Form1.resources
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\obj\Debug\NotebookClient.Properties.Resources.resources
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\obj\Debug\NotebookClient.csproj.GenerateResource.Cache
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\bin\Debug\NotebookClient.exe
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\bin\Debug\NotebookClient.pdb
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\bin\Debug\NotebookAPI.dll
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\bin\Debug\NotebookAPI.pdb
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\obj\Debug\NotebookClient.csproj.NotebookClient.exe.config
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\obj\Debug\NotebookClient.exe
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\obj\Debug\NotebookClient.pdb
+C:\Users\LocalUser\Documents\NotebookClient\NotebookClient\obj\Debug\NotebookClient.Form2.resources
